@@ -1,4 +1,7 @@
-
+//Author Samuel Tegegn
+// method name repl helps to replicate the given text
+//Date 1/30/2020
+//
 package replication;
 
 public class replica {
